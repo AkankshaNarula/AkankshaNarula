@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=800&color=8080FF&center=true&vCenter=true&multiline=false&width=600&lines=Apple+Swift+Student+Challenge+%E2%80%94+Top+350+Worldwide+%F0%9F%8F%86;ICML+2026+%C3%97+2+%7C+MATS+Applicant+%F0%9F%A7%A0;Meta+OpenEnv+Hackathon+%E2%80%94+1st+Place+%F0%9F%94%A5;National+Hackathon+Winner+%F0%9F%8F%86;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=800&color=8080FF&center=true&vCenter=true&multiline=false&width=600&lines=Apple+Swift+Student+Challenge+%E2%80%94+Top+350+Worldwide+%F0%9F%8F%86;ICML+2026+%C3%97+2+%7C+MATS+Applicant+%F0%9F%A7%A0;Meta+OpenEnv+Hackathon+%E2%80%94+%F0%9F%94%A5;National+Hackathon+Winner+%F0%9F%8F%86;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
