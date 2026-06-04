@@ -1,31 +1,158 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a3e,100:0d0d2b&height=200&section=header&text=Akanksha%20Narula&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20ML%20Systems%20%E2%80%A2%20iOS%20Developer&descSize=18&descAlignY=75&descColor=a0a0cc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,30:0d0d35,70:1a1a5e,100:0d0d35&height=220&section=header&text=Akanksha%20Narula&fontSize=56&fontColor=e8e8ff&fontAlignY=52&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20ML%20Systems%20%E2%80%A2%20iOS%20Developer&descSize=17&descAlignY=72&descColor=9090cc" width="100%"/>
 
-<a href="https://linkedin.com/in/akanksha-narula"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://akanksha-portfolio-iota.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:akanksha.narula8@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/AkankshaNarula"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</div>
 
-<br/><br/>
+<div align="center">
 
-> *CS engineer who ships — CUDA-optimized pipelines, on-device AI, RL agent environments, full-stack civic apps.*  
-> *PEC Chandigarh · B.Tech CSE · 9.42 GPA · Class of 2026*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=800&color=8080FF&center=true&vCenter=true&multiline=false&width=600&lines=Apple+Swift+Student+Challenge+%E2%80%94+Top+350+Worldwide+%F0%9F%8F%86;ICML+2026+%C3%97+2+%7C+MATS+Applicant+%F0%9F%A7%A0;Meta+OpenEnv+Hackathon+%E2%80%94+1st+Place+%F0%9F%94%A5;National+Hackathon+Winner+%F0%9F%8F%86;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/akanksha-narula-b6ba26249">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://akanksha-portfolio-iota.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## ⚡ Impact Metrics
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkankshaNarula&layout=compact&hide_border=true&bg_color=0d1117&title_color=8080ff&text_color=8b8bb0&langs_count=8&hide=jupyter%20notebook&card_width=320"/>
+
+### 👩‍💻 About Me
+
+```python
+class Akanksha:
+    university  = "Punjab Engineering College, Chandigarh"
+    degree      = "B.Tech Computer Science · GPA 9.42"
+    graduating  = "Class of 2026"
+    interests   = ["ML Systems", "On-device AI",
+                   "Mechanistic Interpretability",
+                   "iOS/Android", "Civic Tech"]
+    currently   = "Building LLM agent envs + on-device AI 🚀"
+```
+
+- 🔭 &nbsp;Building LLM agent environments and on-device AI apps
+- 🧠 &nbsp;Active in ML safety research (ARENA 3.0, MATS track)
+- 🏆 &nbsp;2× ICML 2026 · National hackathon winner
+- 🌏 &nbsp;HPAIR delegate · Y Combinator Startup School India 2026
+- 📍 &nbsp;Chandigarh, India
+
+<br clear="right"/>
+
+---
+
+## ⚡ By The Numbers
 
 <div align="center">
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| **95.6%** | **0.935** | **Top 350** | **2×** |
-| Latency cut on YouTube Create's Android/iOS media-picker | Benchmark score — LLM agent for PyTorch failure diagnosis | Worldwide · Apple Swift Student Challenge | ICML 2026 papers |
+<table>
+<tr>
+<td align="center" width="180">
+<h2>95.6%</h2>
+<sub>Latency reduction<br/>YouTube Create media-picker<br/>(Android & iOS)</sub>
+</td>
+<td align="center" width="180">
+<h2>0.935</h2>
+<sub>Avg benchmark score<br/>LLM agent · PyTorch<br/>failure diagnosis</sub>
+</td>
+<td align="center" width="180">
+<h2>Top 350</h2>
+<sub>Apple Swift Student<br/>Challenge — Worldwide<br/>2025</sub>
+</td>
+<td align="center" width="180">
+<h2>2 × ICML</h2>
+<sub>Papers accepted<br/>ICML 2026<br/>international venue</sub>
+</td>
+</tr>
+</table>
 
 </div>
+
+---
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### 🔧 [pytorch-triage-env](https://github.com/AkankshaNarula/pytorch-triage-env)
+> 🏆 *Meta OpenEnv Hackathon India 2026*
+
+LLM agent environment that diagnoses real PyTorch production failures — CUDA OOMs, FSDP deadlocks, DDP hangs — by reading files, editing code & running mock training.
+
+**Score:** `0.935` · Qwen2.5-72B vs 1.9 GB baseline
+
+`Python` `PyTorch` `CodeAct` `HuggingFace`
+
+</td>
+<td valign="top" width="50%">
+
+#### 🧠 [MemoryMeet](https://github.com/AkankshaNarula/MemoryMeet)
+> 🏆 *Apple Swift Student Challenge — Top 350 Worldwide*
+
+Offline iPad app for dementia care. 5 on-device AI personalities moderate group therapy. Zero cloud dependency. WCAG AAA. Real-time caregiver distress alerts.
+
+**100% offline** · on-device inference
+
+`Swift 6` `Apple Intelligence` `AVFoundation` `SwiftUI`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### 🏥 [YourDoc](https://github.com/AkankshaNarula/YourDoc)
+> 🏆 *Google Girl Hackathon — National Runner-Up*
+
+6-agent medical pipeline — pneumonia segmentation (U-Net, 93% acc), TB localization (DeepLabV3+ResNet-101, 0.94 mIoU), auto-report generation, triage & GCal scheduling.
+
+`PyTorch` `OpenCV` `GCP` `Streamlit`
+
+</td>
+<td valign="top" width="50%">
+
+#### 🤖 [Sahayak](https://github.com/AkankshaNarula/sih-2024)
+> 🏆 *Smart India Hackathon 2024*
+
+Full-stack civic assistant for navigating government services. Conversational guidance, document checklists, eligibility checking, and application tracking in Hindi + English.
+
+`TypeScript` `React` `Python` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### 🌿 [Chandigarh Gardens](https://github.com/AkankshaNarula/chandigarg_gardens_app-frontend)
+> 📍 *Smart City Initiative — Chandigarh Administration*
+
+QR-code app for every plant in Chandigarh's public gardens — species info, care history, interactive garden maps. Prototype presented to Chandigarh Administration.
+
+`Flutter` `Dart` `Google Maps SDK` `QR`
+
+</td>
+<td valign="top" width="50%">
+
+#### 🔬 [Mechanistic Interpretability](https://github.com/AkankshaNarula/Mechanistic-Interpretability)
+> 📚 *ARENA 3.0 · MATS Applicant Work*
+
+Circuit-level analysis: GPT-2 from scratch, activation patching on IOI task, induction head identification, superposition experiments, linear probing on residual stream.
+
+`Python` `TransformerLens` `CircuitsVis` `PyTorch`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -37,21 +164,21 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**ML & AI**
+**ML / AI**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 ![TransformerLens](https://img.shields.io/badge/TransformerLens-412991?style=flat-square&logo=python&logoColor=white)
 
 **Mobile & Frontend**
@@ -68,89 +195,12 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔧 [pytorch-triage-env](https://github.com/AkankshaNarula/pytorch-triage-env)
-LLM agent environment that diagnoses real PyTorch production failures — CUDA OOMs, FSDP deadlocks, DDP hangs — by reading files, editing code, and running mock training.
-
-**0.935** avg score · Qwen2.5-72B vs 1.9GB baseline
-
-`Python` `PyTorch` `CodeAct` `HuggingFace`
-
-🏆 *Meta OpenEnv Hackathon India 2026*
-
-</td>
-<td width="50%">
-
-### 🧠 [MemoryMeet](https://github.com/AkankshaNarula/MemoryMeet)
-Offline iPad app for dementia care. 5 on-device AI personalities moderate group therapy sessions. Zero cloud dependency. WCAG AAA. Caregiver dashboard with real-time distress alerts.
-
-100% offline · on-device inference
-
-`Swift 6` `Apple Intelligence` `AVFoundation` `SwiftUI`
-
-🏆 *Apple Swift Student Challenge — Top 350 Worldwide*
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏥 [YourDoc](https://github.com/AkankshaNarula/YourDoc)
-6-agent medical diagnostic pipeline — pneumonia segmentation (U-Net, 93% acc), TB localization (DeepLabV3+ResNet-101, 0.94 mIoU), auto-report generation + triage + Google Calendar scheduling.
-
-`PyTorch` `OpenCV` `GCP` `Streamlit`
-
-🏆 *Google Girl Hackathon — National Runner-Up*
-
-</td>
-<td width="50%">
-
-### 🤖 [Sahayak](https://github.com/AkankshaNarula/sih-2024)
-Full-stack citizen assistant for navigating government services. Conversational guidance, document checklist generation, eligibility checking, and application status tracking. Hindi + English.
-
-`TypeScript` `React` `Python` `FastAPI`
-
-🏆 *Smart India Hackathon 2024*
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌿 [Chandigarh Gardens](https://github.com/AkankshaNarula/chandigarg_gardens_app-frontend)
-Smart city civic app. Every plant in Chandigarh's public gardens gets a QR code — scan to get species info, care history, garden maps. Staff management interface included.
-
-`Flutter` `Dart` `Google Maps SDK` `QR`
-
-📍 *Smart City Initiative — Chandigarh*
-
-</td>
-<td width="50%">
-
-### 🔬 [Mechanistic Interpretability](https://github.com/AkankshaNarula/Mechanistic-Interpretability)
-Hands-on circuit analysis: GPT-2 from scratch, activation patching on IOI task, induction head identification, superposition experiments, linear probing on residual stream.
-
-`Python` `TransformerLens` `CircuitsVis` `PyTorch`
-
-📚 *ARENA 3.0 · MATS applicant work*
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -158,17 +208,19 @@ Hands-on circuit analysis: GPT-2 from scratch, activation patching on IOI task, 
 
 <div align="center">
 
-| Award | Details |
-|---|---|
-| 🎓 Google Generation Scholar APAC 2024 | Top 55 students across APAC · $2,500 award |
-| 📦 Amazon ML Summer School 2024 | Top 3,000 of 80,000 applicants |
-| 🌏 HPAIR Asia Conference Delegate 2025 | University of Tokyo |
-| 🚀 Y Combinator Startup School India 2026 | Inaugural India cohort |
-| 👩‍💻 Google Girl Hackathon India 2025 | National Runner-Up · 50,000+ participants |
-| 🛍️ Myntra HackerRamp We For She 2024 | Top 1,200 of 30,000+ teams |
-| ⚡ Google TalentSprint WE'23 | Top 200 of 22,000 applicants |
-| 🏛️ AmEx India Discovery Program 2024 | 150 selected nationwide |
-| 🤖 Salesforce AI FutureForce 2024 | 120 selected nationwide |
+| Year | Award | Details |
+|:---:|---|---|
+| 2026 | 🚀 Y Combinator Startup School India | Inaugural India cohort |
+| 2026 | 🏆 Meta OpenEnv Hackathon India | 1st Place · pytorch-triage-env |
+| 2025 | 🍎 Apple Swift Student Challenge | Top 350 Worldwide |
+| 2025 | 👩‍💻 Google Girl Hackathon India | National Runner-Up · 50,000+ participants |
+| 2025 | 🌏 HPAIR Asia Conference Delegate | University of Tokyo |
+| 2024 | 🎓 Google Generation Scholar APAC | Top 55 across APAC · $2,500 award |
+| 2024 | 📦 Amazon ML Summer School | Top 3,000 of 80,000 applicants |
+| 2024 | 🛍️ Myntra HackerRamp We For She | Top 1,200 of 30,000+ teams |
+| 2024 | 🏛️ AmEx India Discovery Program | 150 selected nationwide |
+| 2024 | 🤖 Salesforce AI FutureForce | 120 selected nationwide |
+| 2023 | ⚡ Google TalentSprint WE Scholar | Top 200 of 22,000 applicants |
 
 </div>
 
@@ -178,20 +230,34 @@ Hands-on circuit analysis: GPT-2 from scratch, activation patching on IOI task, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkankshaNarula&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a0a0ff&text_color=8b8bb0&icon_color=5c5cff&hide=stars&count_private=true&include_all_commits=true" height="155"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkankshaNarula&layout=compact&hide_border=true&bg_color=0d1117&title_color=a0a0ff&text_color=8b8bb0&langs_count=8&hide=jupyter%20notebook" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AkankshaNarula&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8080ff&text_color=8b8bb0&icon_color=6060dd&hide=stars&count_private=true&include_all_commits=true&rank_icon=github" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkankshaNarula&hide_border=true&background=0d1117&ring=8080ff&fire=ff6060&currStreakLabel=8080ff&sideLabels=8b8bb0&currStreakNum=e8e8ff&sideNums=e8e8ff&dates=555577" height="160"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkankshaNarula&bg_color=0d1117&color=a0a0ff&line=5c5cff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkankshaNarula&bg_color=0d1117&color=8080ff&line=6060dd&point=ffffff&area=true&hide_border=true&area_color=2020602" width="96%"/>
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkankshaNarula/AkankshaNarula/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkankshaNarula/AkankshaNarula/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AkankshaNarula/AkankshaNarula/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a3e,100:0a0a0a&height=120&section=footer" width="100%"/>
+*"First, solve the problem. Then, write the code."*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AkankshaNarula&color=6060dd&style=flat-square&label=Profile+Views" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d35,50:1a1a5e,100:050510&height=120&section=footer" width="100%"/>
 
 </div>
