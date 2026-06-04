@@ -27,57 +27,6 @@
 
 <img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkankshaNarula&layout=compact&hide_border=true&bg_color=0d1117&title_color=8080ff&text_color=8b8bb0&langs_count=8&hide=jupyter%20notebook&card_width=320"/>
 
-### 👩‍💻 About Me
-
-```python
-class Akanksha:
-    university  = "Punjab Engineering College, Chandigarh"
-    degree      = "B.Tech Computer Science · GPA 9.42"
-    graduating  = "Class of 2026"
-    interests   = ["ML Systems", "On-device AI",
-                   "Mechanistic Interpretability",
-                   "iOS/Android", "Civic Tech"]
-    currently   = "Building LLM agent envs + on-device AI 🚀"
-```
-
-- 🔭 &nbsp;Building LLM agent environments and on-device AI apps
-- 🧠 &nbsp;Active in ML safety research (ARENA 3.0, MATS track)
-- 🏆 &nbsp;2× ICML 2026 · National hackathon winner
-- 🌏 &nbsp;HPAIR delegate · Y Combinator Startup School India 2026
-- 📍 &nbsp;Chandigarh, India
-
-<br clear="right"/>
-
----
-
-## ⚡ By The Numbers
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="180">
-<h2>95.6%</h2>
-<sub>Latency reduction<br/>YouTube Create media-picker<br/>(Android & iOS)</sub>
-</td>
-<td align="center" width="180">
-<h2>0.935</h2>
-<sub>Avg benchmark score<br/>LLM agent · PyTorch<br/>failure diagnosis</sub>
-</td>
-<td align="center" width="180">
-<h2>Top 350</h2>
-<sub>Apple Swift Student<br/>Challenge — Worldwide<br/>2025</sub>
-</td>
-<td align="center" width="180">
-<h2>2 × ICML</h2>
-<sub>Papers accepted<br/>ICML 2026<br/>international venue</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 🚀 Featured Work
 
