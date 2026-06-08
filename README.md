@@ -160,7 +160,6 @@ Circuit-level analysis: GPT-2 from scratch, activation patching on IOI task, ind
 | Year | Award | Details |
 |:---:|---|---|
 | 2026 | 🚀 Y Combinator Startup School India | Inaugural India cohort |
-| 2026 | 🏆 Meta OpenEnv Hackathon India | 1st Place · pytorch-triage-env |
 | 2025 | 🍎 Apple Swift Student Challenge | Top 350 Worldwide |
 | 2025 | 👩‍💻 Google Girl Hackathon India | National Runner-Up · 50,000+ participants |
 | 2025 | 🌏 HPAIR Asia Conference Delegate | University of Tokyo |
@@ -198,8 +197,6 @@ Circuit-level analysis: GPT-2 from scratch, activation patching on IOI task, ind
 ---
 
 <div align="center">
-
-*"First, solve the problem. Then, write the code."*
 
 <br/>
 
